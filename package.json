@@ -1,0 +1,24 @@
+{
+  "name": "@cometh/typescript-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcometh/typescript-skeleton.git"
+  },
+  "keywords": [
+    "typescript",
+    "skeleton"
+  ],
+  "author": "shooteram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xcometh/typescript-skeleton/issues"
+  },
+  "homepage": "https://github.com/xcometh/typescript-skeleton#readme"
+}
